@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CloudPrepare
+  m_Shader: {fileID: 4800000, guid: 83f29757cf6a4b80a07f93ad57815da4, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _AnimatedSize: 0
+    - _AnimatedSizeSpeed: 2
+    - _AnimatedSizeTilling: 0.1
+    - _DiffusePow: 2
+    - _Displacement: 20
+    - _DisplacementScale: 0.1
+    - _EnableTess: 0
+    - _Tess: 1
+    - _TessFactor: 39.2
+    - _TessellationEdgeLength: 1
+    - _Translation: 2
+    - _TranslationScale: 0.2
+    - _WindPushSpeed: 2
+    - _WindPushStrength: 0
+    - _WindPushTilling: 0.2
+    - _WindSpeed: 2
+    - _WindSpeed2: 2
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
